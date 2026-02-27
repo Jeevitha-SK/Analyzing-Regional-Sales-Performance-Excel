@@ -1,4 +1,4 @@
-# Analyzing and Visualizing Regional Sales Performance
+# Regional-Sales-Analysis-Excel
 
 ## Project Overview
 
