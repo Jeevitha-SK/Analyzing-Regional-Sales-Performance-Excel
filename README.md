@@ -33,4 +33,4 @@ Microsoft Excel
 * Analyzed the impact of discounts on sales
 * Built an interactive dashboard for business insights
 
-Created by: Jeevitha Nivendra
+Created by: Jeevitha Subramaniyam
